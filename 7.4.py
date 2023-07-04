@@ -1,6 +1,6 @@
 import random
-angel = random.randint(1, 10)
 
+angel = random.randint(1, 10)
 you_angel = int(input("请猜一猜数字是多少: "))
 if you_angel == angel:
     print("恭喜你第一次就猜对了")
