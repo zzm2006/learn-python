@@ -1,0 +1,5 @@
+int main()
+{
+	printf("hellw");
+	return 0;
+}
